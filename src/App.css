@@ -1,0 +1,29 @@
+.hi{
+  color: black;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hi:hover{
+  color:bisque;
+}
+.b1{
+  background-color: red;
+  color:wheat;
+}
+.b1:hover{
+  background-color:darkorange;
+}
+.a1{
+  color: black;
+  background-color:darkmagenta;
+}
+.a1:hover{
+  background-color:darkorange;
+}
+.s1{
+  color: black;
+  background-color:teal;
+}
+.s1:hover{
+  background-color: lightcoral;
+}
